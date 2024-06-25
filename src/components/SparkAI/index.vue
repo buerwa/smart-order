@@ -2,7 +2,6 @@
   <div class="chatBox">
     <div class="chatHeader">
       <h2>智能客服</h2>
-      
     </div>
     <div class="chatBody">
       <div class="message" v-for="(message, index) in messages" :key="index">
@@ -60,7 +59,7 @@ export default {
   height: 500px;
 
   .chatHeader {
-    background: #FFC200;
+    background: #6cf;
     color: #fff;
     padding: 10px;
     display: flex;

@@ -123,8 +123,8 @@ const router = new Router({
           name: 'SparkAI',
           component: () => import('@/views/sparkai/index.vue'),
           meta: {
-            title: 'AI客服',
-            icon: 'sparkai.svg', // 使用Element UI的图标
+            title: "AI客服",
+            icon: "icon-employee"
           }
         },
 

@@ -308,7 +308,7 @@ export default class extends Vue {
   height: 60px;
   // overflow: hidden;
   position: relative;
-  background: #ffc100;
+  background: #f1ead2;
 
   // box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
   .statusBox {
